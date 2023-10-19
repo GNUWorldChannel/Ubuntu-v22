@@ -1,0 +1,13 @@
+SPECIAL NOTE: Since Undernet has TAKEOVER STATUS this guide will not be updated anymore. 
+
+OS SUPPORTED: Ubuntu 20.04.*  LTS \n \l - Server / Raspberry Pi
+(When we say * it means all incremental versions).
+
+IRCD + GNUWorld + CService-Web
+
+OS Release: Ubuntu 20.04.3 LTS \n \l
+
+#1 PREPARE Your System : Pre-Requisites first Step!
+#2 Install ircu2 : ircu2 Second Step!
+#3 Install GNUWorld : GNUWorld Third Step!
+#4 Install CService-Web : CService Web Last Step!
